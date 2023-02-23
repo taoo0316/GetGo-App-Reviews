@@ -17,3 +17,5 @@
 ```word cloud of reviews with rating 1```
 
 ![wordcloudrating1](https://user-images.githubusercontent.com/95064358/221010346-786d7102-139d-423a-9feb-e92d0ba0962c.png)
+
+As we can see, the reviews are generally positive, which is good news! Words like "easy", "good" and "convenient" appear multiple times. Nonetheless, we do get a peek at the common problems faced by users in the third word cloud. These include "booking", "customer service" and "late", just to name a few. 
