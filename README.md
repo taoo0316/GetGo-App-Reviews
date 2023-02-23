@@ -4,6 +4,9 @@
 
 1. Fetch reviews of the GetGo App from the Apple App Store. This is done using the app_store_scraper. Take note that the country code is 'sg' and app_id is 
 '1545316216'.
+
+<img width="1090" alt="Screenshot 2023-02-23 at 10 10 42 PM" src="https://user-images.githubusercontent.com/95064358/221019089-1a3c7943-dd88-40cc-a2c1-a21c293b88ac.png">
+
 2. Construct some word clouds of the reviews. Here are a few:
 
 ```word cloud of the reviews```
