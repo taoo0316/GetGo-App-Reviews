@@ -36,4 +36,8 @@ Here we get to see the fluctuation of ratings per month. We also observe an upwa
 
 4. Use the ARIMA model to forecast the rating next month
 
+ARIMA is a model used rather frequently in time series forecasting. Here, we try to forecast the average rating of the GetGo application on the App Store next month.
+
+
+
 
