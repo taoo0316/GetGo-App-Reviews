@@ -24,7 +24,9 @@ As we can see, the reviews are generally positive, which is good news! Words lik
 
 <img width="414" alt="Screenshot 2023-02-23 at 9 46 09 PM" src="https://user-images.githubusercontent.com/95064358/221013917-592acd86-eef3-40c0-874e-ecb3a3523c8e.png">
 
-<img width="794" alt="Screenshot 2023-02-23 at 9 46 33 PM" src="https://user-images.githubusercontent.com/95064358/221013984-d80c38f1-830b-4703-bfeb-8b18d5f371c6.png">
-
 As we can see, the reviews are generally positive with a high number of 5/5 reviews. Nonetheless, there are also a fair number of negative reviews (1/5), which is understandable for any application with a sizable number of downloads.
 
+
+<img width="794" alt="Screenshot 2023-02-23 at 9 46 33 PM" src="https://user-images.githubusercontent.com/95064358/221013984-d80c38f1-830b-4703-bfeb-8b18d5f371c6.png">
+
+Here we get to see the fluctuation of ratings per month. We also observe an upwards trend in recent months, which is encouraging as well.
