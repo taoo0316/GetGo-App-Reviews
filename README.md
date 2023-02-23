@@ -34,10 +34,11 @@ As we can see, the reviews are generally positive with a high number of 5/5 revi
 
 Here we get to see the fluctuation of ratings per month. We also observe an upwards trend in recent months, which is encouraging as well.
 
-4. Use the ARIMA model to forecast the rating next month
+4. Use the ARIMA model to forecast the average rating next month
 
 ARIMA is a model used rather frequently in time series forecasting. Here, we try to forecast the average rating of the GetGo application on the App Store next month.
 
+<img width="581" alt="Screenshot 2023-02-23 at 10 36 55 PM" src="https://user-images.githubusercontent.com/95064358/221024413-1a31b72f-ed0f-47d1-8b2b-b1347783ba63.png">
 
-
+From the forecast, the monthly average rating in March will be around 2.71, which is indeed an increase from the previous two months this year. It will be interesting to see if this forecast holds true. 
 
