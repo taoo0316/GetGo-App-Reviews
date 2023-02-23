@@ -33,3 +33,7 @@ As we can see, the reviews are generally positive with a high number of 5/5 revi
 <img width="794" alt="Screenshot 2023-02-23 at 9 46 33 PM" src="https://user-images.githubusercontent.com/95064358/221013984-d80c38f1-830b-4703-bfeb-8b18d5f371c6.png">
 
 Here we get to see the fluctuation of ratings per month. We also observe an upwards trend in recent months, which is encouraging as well.
+
+4. Use the ARIMA model to forecast the rating next month
+
+
