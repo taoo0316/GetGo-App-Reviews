@@ -98,6 +98,6 @@ While I am not sure if the icon is fixed now, the issue is certainly worth looki
 
 ![IMAGE 2023-02-24 21:16:18](https://user-images.githubusercontent.com/95064358/221271157-3f18b191-4499-4b0e-a5f6-3b62b53a2ae3.jpg)
 
-```The application interface of GetGo at the time of doing this project```
+```The UI of GetGo at the time of doing this project```
 
 
