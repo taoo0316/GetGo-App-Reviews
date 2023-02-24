@@ -100,11 +100,13 @@ While I am not sure if the icon is fixed now, the issue is certainly worth looki
 
 ```The UI of GetGo at the time of doing this project```
 
-8. Genereate replies using NLTK
+8. Genereate replies trained on existing ones
 
-As we know that developers may not be able to tend to every review, we can utilise natural language processing to generate replies, trained on the replies already present in the data set. The sample code can be seen below:
+As we know that developers may not be able to tend to every review, we can utilise natural language processing to generate replies, trained on the replies already present in the data set. There are many such language models available, such as seq2seq, transformers etc. However, this requires extensive computational resources. Moreover, this requires ususally large amount of training data.
 
-<img width="958" alt="Screenshot 2023-02-25 at 1 28 32 AM" src="https://user-images.githubusercontent.com/95064358/221320399-b755ab45-05cc-400c-9ff9-2b2e819140b5.png">
+Another option is to utilise ChatGPT, an AI language model that has gained much traction lately. I have tried out one of the unreplied reviews, and the resposne is quite good:
+
+
 
 
 
