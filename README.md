@@ -60,8 +60,14 @@ Now we have a better sense of the problems surfaced by customers, how often do o
 
 As we can see, the overall response rate is close to 50%, which is a respectable rate. The response rate for reviews of rating '1' is over 60%, which makes sense as we want to tend to those who encounter issues with our application. Nonetheless, maybe it is better to raise this number so that the customers can have an even better overall customer experience. 
 
+Since we have the time series data, it would be a pity to not take advantage of that. Therefore, I have also created a plot to show how rate of response by developers changes across time. The result is rather interesting as well.
+
+
+
 7. Delving into specific reviews
 
 Beyond using data science to understand a problem, sometimes it is acutally helpful to look at specific customer feedback to get a better sense of the issue. 
+
+<img width="439" alt="Screenshot 2023-02-24 at 2 37 03 PM" src="https://user-images.githubusercontent.com/95064358/221180663-ab016dda-35c8-4ed2-ac77-33cab5062ec2.png">
 
 
