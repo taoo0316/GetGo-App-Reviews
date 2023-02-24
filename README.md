@@ -52,7 +52,7 @@ The result is as follows:
 
 6. Developer response rate
 
-Now we have a better sense of the problems surfaced by customers, how often do our developers respond to their questions? We can use data sciece to find out too.
+Now we have a better sense of the problems surfaced by customers, how often do our developers respond to their questions? We can use data science to find out too.
 
 <img width="602" alt="Screenshot 2023-02-24 at 11 58 16 AM" src="https://user-images.githubusercontent.com/95064358/221149406-31c76636-f8a2-470a-8a63-df988d0c945d.png">
 
