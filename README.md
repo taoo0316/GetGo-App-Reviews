@@ -86,7 +86,7 @@ The number is 88, which is in line with the number of reviews left from July to 
 
 Beyond using data science to understand a problem, sometimes it is actually helpful to look at specific customer feedback to get a better sense of the issue. 
 
-To do this, I looked at reviews during the 4-month period when response rate is low. Interestingly, some common problems do surface.
+To do this, I looked at reviews during the 4-month period when the response rate is low. Interestingly, some common problems do surface.
 
 A notable one is the functionality of the 'book' icon. Many customers provided feedback that they faced difficulties when pressing the icon.
 
@@ -94,17 +94,17 @@ A notable one is the functionality of the 'book' icon. Many customers provided f
 
 <img width="1003" alt="Screenshot 2023-02-24 at 9 05 23 PM" src="https://user-images.githubusercontent.com/95064358/221269211-9a3dbed3-a928-4bc6-94e9-276c7fd3c734.png">
 
-While I am not sure if the icon is fixed now, the issue is certainly worth looking into by the engineering team :D. It is also worth noting that developer response was not provided for the three reviews above.
+While I am not sure if the icon is fixed now, the issue is certainly worth looking into by the engineering team :D. It is also worth noting that a developer response was not provided for the three reviews above.
 
 ![IMAGE 2023-02-24 21:16:18](https://user-images.githubusercontent.com/95064358/221271157-3f18b191-4499-4b0e-a5f6-3b62b53a2ae3.jpg)
 
-```The UI of GetGo at the time of doing this project```
+```The UI of GetGo at the time of this project```
 
-8. Genereate replies trained on existing ones
+8. Generate replies trained on existing ones
 
-As we know that developers may not be able to tend to every review, we can utilise natural language processing to generate replies, trained on the replies already present in the data set. There are many such language models available, such as seq2seq, transformers etc. However, this requires extensive computational resources. Moreover, this requires ususally large amount of training data.
+As we know that developers may not be able to tend to every review, we can utilise natural language processing to generate replies, trained on the replies already present in the data set. There are many such language models available, such as seq2seq, transformers, etc. However, this requires extensive computational resources. Moreover, this requires a relatively large amount of training data.
 
-Another option is to utilise ChatGPT, an AI language model that has gained much traction lately. I have tried out one of the unreplied reviews, and the resposne is not too bad:
+Another option is to utilise ChatGPT, an AI language model that has gained much traction lately. I have tried out one of the unreplied reviews, and the response is not too bad:
 
 <img width="812" alt="Screenshot 2023-02-25 at 1 44 29 AM" src="https://user-images.githubusercontent.com/95064358/221321822-fe16f9c7-3887-4d45-9215-497bf4ee85cf.png">
 
