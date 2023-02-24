@@ -64,7 +64,7 @@ Since we have the time series data, it would be a pity to not take advantage of 
 
 <img width="439" alt="Screenshot 2023-02-24 at 2 37 03 PM" src="https://user-images.githubusercontent.com/95064358/221180663-ab016dda-35c8-4ed2-ac77-33cab5062ec2.png">
 
-As we can see, there is a very high rate of response until Jan 2022. After that, the response rate seems to fluctuate a lot more, with a sharp dip in July to October of 2022. After that, the response rate has been steadily climbing up back again. 
+As we can see, there is a very high rate of response until Jan 2022. After that, the response rate seems to fluctuate a lot more, with a sharp dip in July to October of 2022. Following that, the response rate has been steadily climbing up back again. 
 
 It will be interesting to look into the periods of July-October of 2022 to understand better why the response rate is so low.
 
