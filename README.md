@@ -68,7 +68,18 @@ As we can see, there is a very high rate of response until Jan 2022. After that,
 
 It will be interesting to look into the periods of July-October of 2022 to understand better why the response rate is so low.
 
+We first look at the number of reviews and developer responses during that 4-month period.
+
+<img width="687" alt="Screenshot 2023-02-24 at 4 02 30 PM" src="https://user-images.githubusercontent.com/95064358/221197571-13420bae-ae63-4aaa-9473-710da76458e9.png">
+
+As seen above, the number of reviews left is 61, but the number of responses is only 2.
+
+We then look at the average number of reviews left in a 4-month period.
+
+<img width="918" alt="Screenshot 2023-02-24 at 4 03 48 PM" src="https://user-images.githubusercontent.com/95064358/221197885-e2f4631e-af37-4acb-bce0-609044ec109f.png">
+
+The number is 88, which is in line with the number of reviews left from July to October of 2022. This suggests there might indeed be a lack of responses in that period, which means we need to look into the operation procedures during that period of time to address the problem. Are developers busier during that period of time? Is it because there is a critical bug in the application they need to attend to?
+
 7. Delving into specific reviews
 
 Beyond using data science to understand a problem, sometimes it is acutally helpful to look at specific customer feedback to get a better sense of the issue. 
-
