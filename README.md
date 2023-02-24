@@ -60,11 +60,11 @@ Now we have a better sense of the problems surfaced by customers, how often do o
 
 As we can see, the overall response rate is close to 50%, which is a respectable rate. The response rate for reviews of rating '1' is over 60%, which makes sense as we want to tend to those who encounter issues with our application. Nonetheless, maybe it is better to raise this number so that the customers can have an even better overall customer experience. 
 
-Since we have the time series data, it would be a pity to not take advantage of that. Therefore, I have also created a plot to show how rate of response by developers changes across time. The result is rather interesting as well.
+Since we have the time series data, it would be a pity to not take advantage of that. Therefore, I have also created a plot to show how the rate of response by developers changes over time. The result is rather interesting as well.
 
 <img width="439" alt="Screenshot 2023-02-24 at 2 37 03 PM" src="https://user-images.githubusercontent.com/95064358/221180663-ab016dda-35c8-4ed2-ac77-33cab5062ec2.png">
 
-As we can see, there is a very high rate of response until Jan 2022. After that, the response rate seems to fluctuate a lot more, with a sharp dip in July to October of 2022. Following that, the response rate has been steadily climbing up back again. 
+As we can see, there is a very high rate of response until Jan 2022. After that, the response rate seems to fluctuate a lot more, with a sharp dip from July to October of 2022. Following that, the response rate has been steadily climbing up back again. 
 
 It will be interesting to look into the periods of July-October of 2022 to understand better why the response rate is so low.
 
@@ -78,8 +78,8 @@ We then look at the average number of reviews left in a 4-month period.
 
 <img width="918" alt="Screenshot 2023-02-24 at 4 03 48 PM" src="https://user-images.githubusercontent.com/95064358/221197885-e2f4631e-af37-4acb-bce0-609044ec109f.png">
 
-The number is 88, which is in line with the number of reviews left from July to October of 2022. This suggests there might indeed be a lack of responses in that period, which means we need to look into the operation procedures during that period of time to address the problem. Are developers busier during that period of time? Is it because there is a critical bug in the application they need to attend to?
+The number is 88, which is in line with the number of reviews left from July to October of 2022. This suggests there might indeed be a lack of responses in that period, which means we need to look into the operating procedures during that period of time to address the problem. Were developers busier? Is it because there was a critical bug in the application they had to attend to?
 
 7. Delving into specific reviews
 
-Beyond using data science to understand a problem, sometimes it is acutally helpful to look at specific customer feedback to get a better sense of the issue. 
+Beyond using data science to understand a problem, sometimes it is actually helpful to look at specific customer feedback to get a better sense of the issue. 
