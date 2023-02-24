@@ -62,12 +62,11 @@ As we can see, the overall response rate is close to 50%, which is a respectable
 
 Since we have the time series data, it would be a pity to not take advantage of that. Therefore, I have also created a plot to show how rate of response by developers changes across time. The result is rather interesting as well.
 
+<img width="439" alt="Screenshot 2023-02-24 at 2 37 03 PM" src="https://user-images.githubusercontent.com/95064358/221180663-ab016dda-35c8-4ed2-ac77-33cab5062ec2.png">
 
+As we can see, there is a very high rate of response until Jan 2022. After that, the response rate seems to fluctuate a lot more, with a sharp dip in July to October of 2022. After that, the response rate has been steadily climbing up back again. 
 
 7. Delving into specific reviews
 
 Beyond using data science to understand a problem, sometimes it is acutally helpful to look at specific customer feedback to get a better sense of the issue. 
-
-<img width="439" alt="Screenshot 2023-02-24 at 2 37 03 PM" src="https://user-images.githubusercontent.com/95064358/221180663-ab016dda-35c8-4ed2-ac77-33cab5062ec2.png">
-
 
