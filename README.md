@@ -66,6 +66,8 @@ Since we have the time series data, it would be a pity to not take advantage of 
 
 As we can see, there is a very high rate of response until Jan 2022. After that, the response rate seems to fluctuate a lot more, with a sharp dip in July to October of 2022. After that, the response rate has been steadily climbing up back again. 
 
+It will be interesting to look into the periods of July-October of 2022 to understand better why the response rate is so low.
+
 7. Delving into specific reviews
 
 Beyond using data science to understand a problem, sometimes it is acutally helpful to look at specific customer feedback to get a better sense of the issue. 
