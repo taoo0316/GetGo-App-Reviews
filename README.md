@@ -58,5 +58,6 @@ Now we have a better sense of the problems surfaced by customers, how often do o
 
 <img width="630" alt="Screenshot 2023-02-24 at 11 58 34 AM" src="https://user-images.githubusercontent.com/95064358/221149480-c4e0cfb5-c0ab-4ec4-a791-6c4b01985eda.png">
 
+As we can see, the overall response rate is close to 50%, which is a respectable rate. The response rate for reviews of rating '1' is over 60%, which makes sense as we want to tend to those who encounter issues with our application. Nonetheless, maybe it is better to raise this number so that the customers can have an even better overall customer experience. 
 
 
