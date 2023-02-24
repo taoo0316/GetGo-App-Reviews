@@ -94,4 +94,4 @@ A notable one is the functionality of the 'book' icon. Many customers provided f
 
 <img width="1003" alt="Screenshot 2023-02-24 at 9 05 23 PM" src="https://user-images.githubusercontent.com/95064358/221269211-9a3dbed3-a928-4bc6-94e9-276c7fd3c734.png">
 
-While I am not sure if the icon is fixed now, the issue is certainly worth looking into by the engineering team :D.
+While I am not sure if the icon is fixed now, the issue is certainly worth looking into by the engineering team :D. It is also worth noting that developer response was not provided for the three reviews above.
