@@ -42,3 +42,11 @@ ARIMA is a model used rather frequently in time series forecasting. Here, we try
 
 From the forecast, the monthly average rating in March will be around 2.71, which is indeed an increase from the previous two months this year. It will be interesting to see if this forecast holds true. 
 
+5. Top modelling using LDA for reviews with rating 1
+
+To get a better sense of the areas of improvement, we can do a topic modelling for reviews with rating 1 using the Latent Dirichlet Allocation (LDA) algorithm from the gensim library.
+
+The result is as follows:
+
+<img width="994" alt="Screenshot 2023-02-24 at 2 02 52 AM" src="https://user-images.githubusercontent.com/95064358/221059078-de0d8acb-7f4e-414b-83b1-333fbac73e27.png">
+
