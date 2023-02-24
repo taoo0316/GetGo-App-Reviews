@@ -60,4 +60,8 @@ Now we have a better sense of the problems surfaced by customers, how often do o
 
 As we can see, the overall response rate is close to 50%, which is a respectable rate. The response rate for reviews of rating '1' is over 60%, which makes sense as we want to tend to those who encounter issues with our application. Nonetheless, maybe it is better to raise this number so that the customers can have an even better overall customer experience. 
 
+7. Delving into specific reviews
+
+Beyond using data science to understand a problem, sometimes it is acutally helpful to look at specific customer feedback to get a better sense of the issue. 
+
 
