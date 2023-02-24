@@ -85,3 +85,13 @@ The number is 88, which is in line with the number of reviews left from July to 
 7. Delving into specific reviews
 
 Beyond using data science to understand a problem, sometimes it is actually helpful to look at specific customer feedback to get a better sense of the issue. 
+
+To do this, I looked at reviews during the 4-month period when response rate is low. Interestingly, some common problems do surface.
+
+A notable one is the functionality of the 'book' icon. Many customers provided feedback that they faced difficulties when pressing the icon.
+
+<img width="1004" alt="Screenshot 2023-02-24 at 9 04 59 PM" src="https://user-images.githubusercontent.com/95064358/221269127-5613506c-c603-4fd8-b481-1cdb95ecc44f.png">
+
+<img width="1003" alt="Screenshot 2023-02-24 at 9 05 23 PM" src="https://user-images.githubusercontent.com/95064358/221269211-9a3dbed3-a928-4bc6-94e9-276c7fd3c734.png">
+
+While I am not sure if the icon is fixed now, the issue is certainly worth looking into by the engineering team :D.
