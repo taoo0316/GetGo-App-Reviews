@@ -2,30 +2,29 @@
 
 ## Some Data Science on GetGo App Reviews
 
-# 1. Fetch reviews of the GetGo App from the Apple App Store. This is done using the app_store_scraper. Take note that the country code is 'sg' and app_id is 
-'1545316216'.
+## 1. Fetch reviews of the GetGo App from the Apple App Store. This is done using the app_store_scraper. Take note that the country code is 'sg' and app_id is '1545316216'.
 
 https://apps.apple.com/us/app/getgo-carsharing/id1545316216
 
 <img width="1090" alt="Screenshot 2023-02-23 at 10 10 42 PM" src="https://user-images.githubusercontent.com/95064358/221019089-1a3c7943-dd88-40cc-a2c1-a21c293b88ac.png">
 
-2. Construct some word clouds of the reviews. Here are a few:
-
-```word cloud of the reviews```
+## 2. Construct some word clouds of the reviews. Here are a few:
 
 ![wordcloudreview](https://user-images.githubusercontent.com/95064358/221010235-a98befac-ccbc-44e7-a18a-f0e1ed36466c.png)
 
-```word cloud of the titles```
+```word cloud of the reviews```
 
 ![wordcloudtitle](https://user-images.githubusercontent.com/95064358/221010289-f4ab6592-9a98-4c3f-8687-1733dd358793.png)
 
-```word cloud of reviews with rating 1```
+```word cloud of the titles```
 
 ![wordcloudrating1](https://user-images.githubusercontent.com/95064358/221010346-786d7102-139d-423a-9feb-e92d0ba0962c.png)
 
+```word cloud of reviews with rating 1```
+
 As we can see, the reviews are generally positive, which is good news! Words like "easy", "good" and "convenient" appear multiple times. Nonetheless, we do get a peek at the common problems faced by users in the third word cloud. These include "booking", "customer service" and "late", just to name a few. 
 
-3. Create some visualisations to understand the data better!
+## 3. Create some visualisations to understand the data better!
 
 <img width="414" alt="Screenshot 2023-02-23 at 9 46 09 PM" src="https://user-images.githubusercontent.com/95064358/221013917-592acd86-eef3-40c0-874e-ecb3a3523c8e.png">
 
@@ -36,7 +35,7 @@ As we can see, the reviews are generally positive with a high number of 5/5 revi
 
 Here we get to see the fluctuation of ratings per month. We also observe an upwards trend in recent months, which is encouraging as well.
 
-4. Use the ARIMA model to forecast the average rating next month
+## 4. Use the ARIMA model to forecast the average rating next month
 
 ARIMA is a model used rather frequently in time series forecasting. Here, we try to forecast the average rating of the GetGo application on the App Store next month.
 
@@ -44,7 +43,7 @@ ARIMA is a model used rather frequently in time series forecasting. Here, we try
 
 From the forecast, the monthly average rating in March will be around 2.71, which is indeed an increase from the previous two months this year. It will be interesting to see if this forecast holds true. 
 
-5. Top modelling using LDA for reviews with rating 1
+## 5. Top modelling using LDA for reviews with rating 1
 
 To get a better sense of the areas of improvement, we can do a topic modelling for reviews with rating 1 using the Latent Dirichlet Allocation (LDA) algorithm from the gensim library.
 
@@ -52,7 +51,7 @@ The result is as follows:
 
 <img width="994" alt="Screenshot 2023-02-24 at 2 02 52 AM" src="https://user-images.githubusercontent.com/95064358/221059078-de0d8acb-7f4e-414b-83b1-333fbac73e27.png">
 
-6. Developer response rate
+## 6. Developer response rate
 
 Now we have a better sense of the problems surfaced by customers, how often do our developers respond to their questions? We can use data science to find out too.
 
@@ -82,7 +81,7 @@ We then look at the average number of reviews left in a 4-month period.
 
 The number is 88, which is in line with the number of reviews left from July to October of 2022. This suggests there might indeed be a lack of responses in that period, which means we need to look into the operating procedures during that period of time to address the problem. Were developers busier? Is it because there was a critical bug in the application they had to attend to?
 
-7. Delving into specific reviews
+## 7. Delving into specific reviews
 
 Beyond using data science to understand a problem, sometimes it is actually helpful to look at specific customer feedback to get a better sense of the issue. 
 
@@ -100,7 +99,7 @@ While I am not sure if the icon is fixed now, the issue is certainly worth looki
 
 ```The UI of GetGo at the time of this project```
 
-8. Generate replies trained on existing ones
+## 8. Generate replies trained on existing ones
 
 As we know that developers may not be able to tend to every review, we can utilise natural language processing to generate replies, trained on the replies already present in the data set. There are many such language models available, such as seq2seq, transformers, etc. However, this requires extensive computational resources. Moreover, this requires a relatively large amount of training data.
 
