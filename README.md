@@ -101,7 +101,7 @@ While I am not sure if the icon is fixed now, the issue is certainly worth looki
 
 ## 8. Generate replies trained on existing ones
 
-As we know that developers may not be able to tend to every review, we can utilise natural language processing to generate replies, trained on the replies already present in the data set. There are many such language models available, such as seq2seq, transformers, etc. However, this requires extensive computational resources. Moreover, this requires a relatively large amount of training data.
+As we know that developers may not be able to tend to every review, we can utilise natural language processing to generate replies, trained on the replies already present in the data set. There are many such language models available, such as seq2seq, transformers, etc. However, this requires extensive computational resources. Moreover, this requires a relatively large amount of training data. Nonetheless, to see a similar project I did previously, see this link: https://github.com/taoo0316/seq2seq-chatbot.
 
 Another option is to utilise ChatGPT, an AI language model that has gained much traction lately. I have tried out one of the unreplied reviews, and the response is not too bad:
 
