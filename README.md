@@ -105,7 +105,7 @@ While I am not sure if the icon is fixed now, the issue is certainly worth looki
 
 As we know that developers may not be able to tend to every review, we can utilise natural language processing to generate replies, trained on the replies already present in the data set. There are many such language models available, such as seq2seq, transformers, etc. However, this requires extensive computational resources. Moreover, this often means we need a relatively large amount of training data. Nonetheless, to see a similar project I did previously, see this link: https://github.com/taoo0316/seq2seq-chatbot.
 
-Another option is to utilise ChatGPT, an AI language model that has gained much traction lately. I have tried out one of the unreplied reviews, and the response is not too bad:
+Another option is to utilise ChatGPT, an AI language model that has gained much traction lately. It is worth pointing out here that since ChatGPT was not trained on data specifically related to the company, the replies it generates may not be completely applicable as well. Nonetheless, I have tried out one of the unreplied reviews, and the response is not too bad:
 
 <img width="812" alt="Screenshot 2023-02-25 at 1 44 29 AM" src="https://user-images.githubusercontent.com/95064358/221321822-fe16f9c7-3887-4d45-9215-497bf4ee85cf.png">
 
